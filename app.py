@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
 import os
 import pandas as pd
-import matplotlib.pyplot as plt
 import csv
 
 
